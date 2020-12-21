@@ -1,0 +1,29 @@
+{
+  "name": "report-service-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "nodemon --inspect .",
+    "start": "node ."
+  },
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "bcrypt": "^5.0.0",
+    "dotenv": "^8.2.0",
+    "faker": "^5.1.0",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "node-excel-export": "^1.4.4",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
