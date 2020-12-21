@@ -4,6 +4,7 @@ Add ``.env`` files to client and server directories following the example from t
 ``HTTPS_LOCALHOST_CRT`` and ``HTTPS_LOCALHOST_KEY`` - not necessary
 
 Set ``IS_UPDATE_FAKE_DATA=1`` if you want to reset the database and push new generated fake data.
+![8](assets/8.png)
 ```
 cd server
 npm i
