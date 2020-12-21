@@ -24,5 +24,5 @@ npm run serve
 ![5](assets/5.png)
 ### Render report on vue
 ![6](assets/6.png)
-### Download xlsx report file
+### Downloaded xlsx report file
 ![7](assets/7.png)
